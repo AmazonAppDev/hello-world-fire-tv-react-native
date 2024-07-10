@@ -1,0 +1,8 @@
+{
+  "extends": ["@react-native", "eslint:recommended"],
+  "plugins": ["@typescript-eslint"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "parser": "@typescript-eslint/parser"
+}

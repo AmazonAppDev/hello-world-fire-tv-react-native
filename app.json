@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "@react-native-tvos/config-tv",
+        {
+          "isTV": true,
+          "androidTVBanner": "./assets/images/icon-400x240.png"
+        }
+      ]
+    ],
+    "name": "ExpoTVDemo",
+    "slug": "ExpoTVDemo"
+  }
+}
