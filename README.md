@@ -6,7 +6,7 @@ Learn how to create a simple Fire TV app using React Native and Expo 📺
 
 To run this project, you will need:
 
-- [Android TV Emulator](https://developer.android.com/studio) 🛠️
+- [Android TV Emulator](https://developer.android.com/studio) with the [command line tools configured](https://developer.android.com/tools/variables) 🛠️
 - (Or) [Fire TV](https://developer.amazon.com/apps-and-games/fire-tv) 📺
 
 ## ✅ Features
