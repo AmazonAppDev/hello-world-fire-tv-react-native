@@ -46,10 +46,11 @@ If you found a bug or want to suggest a new [feature/use case/sample], please [f
 
 If you have questions, comments, or need help with code, we're here to help:
 
-- on Twitter at [@AmazonAppDev](https://twitter.com/AmazonAppDev)
-- on Stack Overflow at the [amazon-appstore](https://stackoverflow.com/questions/tagged/amazon-appstore) tag
+- Join the [Amazon Developer community](https://community.amazondeveloper.com/c/amazon-appstore/17)
 
-Sign up to [stay updated with the developer newsletter](https://m.amazonappservices.com/subscribe-newsletter).
+- Check out the [amazon-appstore](https://stackoverflow.com/questions/tagged/amazon-appstore) tag on Stack Overflow
+
+Sign up to [stay updated with the developer newsletter](https://m.amazonappservices.com/devto-newsletter-subscribe).
 
 ## Authors
 
