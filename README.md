@@ -26,7 +26,7 @@ Features coming next:
 
 ## 💻 Running the Hello World App
 
-1. Clone the repository: `git clone https://github.com/AmazonAppDev/hello-world-rn-fire-tv.git`
+1. Clone the repository: `git clone https://github.com/AmazonAppDev/hello-world-fire-tv-react-native.git`
 
 2. Run the Android TV emulator: `emulator -avd name-of-your-emulator`.
 
