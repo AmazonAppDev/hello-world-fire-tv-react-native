@@ -17,7 +17,7 @@
     "react-native-screens": "3.31.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.0",
+    "@babel/core": "^7.29.6",
     "@react-native-tvos/config-tv": "^0.0.10",
     "@react-native/eslint-config": "^0.74.84",
     "@types/react": "~18.2.45",
