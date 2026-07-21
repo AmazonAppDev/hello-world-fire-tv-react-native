@@ -4,7 +4,7 @@
   "dependencies": {
     "@react-navigation/drawer": "^6.6.15",
     "@react-navigation/native": "^6.1.17",
-    "expo": "~51.0.13",
+    "expo": "~57.0.7",
     "expo-splash-screen": "~0.27.5",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
-    "@react-native-tvos/config-tv": "^0.0.10",
+    "@react-native-tvos/config-tv": "^0.1.6",
     "@react-native/eslint-config": "^0.74.84",
     "@types/react": "~18.2.45",
     "@typescript-eslint/eslint-plugin": "^7.14.1",
